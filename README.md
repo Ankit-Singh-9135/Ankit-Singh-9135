@@ -59,11 +59,11 @@ I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kr-1111&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Singh-9135&layout=compact" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Singh-9135&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
 </div>
 
 <div align="center">
