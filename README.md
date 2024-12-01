@@ -21,7 +21,7 @@ I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate 
 ---
 
 ## 🚀 My Projects
-- *[Tic Tac Toe](https://github.com/your-username/tic-tac-toe)* 🎮 - A classic Tic Tac Toe game built using JavaScript, HTML, and CSS.
+- *[Online shoping](https://github.com/your-username/tic-tac-toe)* 🎮 - A classic Onling shoping  using JavaScript, HTML, and CSS.
 - *[Perfect Guess](https://github.com/your-username/perfect-guess)* 🎯 - A guessing game where users predict a number, developed using JavaScript.
 - *[Weather Information](https://github.com/your-username/weather-app)* 🌤 - A web app that fetches real-time weather data from an API and displays it using dynamic UI.
 
@@ -67,17 +67,17 @@ I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Singh-9135&theme=dark&hide_border=false"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-kr-1111&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-Singh-9135&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aman-kr-1111&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ankit-Singh-9135&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 ---
 
